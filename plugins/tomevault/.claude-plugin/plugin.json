@@ -17,6 +17,5 @@
     "drift",
     "verification",
     "provenance"
-  ],
-  "mcpServers": "./mcp-config.json"
+  ]
 }
