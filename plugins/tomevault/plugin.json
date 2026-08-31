@@ -1,0 +1,21 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "tomevault",
+  "version": "1.0.0",
+  "description": "Check AI instruction files, look up a company's record, keep a dated record of your own. Verification is free and needs no account.",
+  "author": {
+    "name": "TomeVault",
+    "email": "oli@tomevault.io",
+    "url": "https://tomevault.io"
+  },
+  "homepage": "https://tomevault.io/docs/mcp",
+  "repository": "https://github.com/tomevault-io/tomevault-plugin",
+  "license": "MIT",
+  "keywords": [
+    "instructions",
+    "skills",
+    "drift",
+    "verification",
+    "provenance"
+  ]
+}
